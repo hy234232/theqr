@@ -68,7 +68,7 @@ const i18n = {
     'page-title': 'TheQR - QR Code Authentication Solution',
     'cta': 'Contact Us',
     'hero-eyebrow': 'Product Authentication Solution',
-    'hero-title': 'Authenticate Products. Protect Your Brand.',
+    'hero-title': 'Authenticate Products<br>Protect Your Brand',
     'intro-eyebrow': 'Overview',
     'intro-heading': 'Manage authentication records and track<br>counterfeits with a single genuine sticker',
     'intro-card1-title': 'TheQR Genuine Sticker Placement',
